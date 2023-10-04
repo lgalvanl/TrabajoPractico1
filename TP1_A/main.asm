@@ -1,15 +1,11 @@
 ;
-; TP1_A.asm
-;
-; Created: 30/9/2023 10:38:32 a. m.
-; Author : Beatriz G
+; Parte_A.asm
 ;
 .include "m328pdef.inc" 
 .org 0x0000
     rjmp inicio;
 .org INT_VECTORS_SIZE
 INICIO:
-; Replace with your application code
 ldi r16,0x01
 out DDRB,r16
 start:
