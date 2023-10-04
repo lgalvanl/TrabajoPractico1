@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\beatriz g\Documents\Atmel Studio\7.0\TP1_A\TP1_A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\beatriz g\Documents\Atmel Studio\7.0\TP1_A\TP1_A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\beatriz g\Documents\Atmel Studio\7.0\TP1_A\TP1_A\Debug\TP1_A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TP1_A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TP1_A.map</FILE>
+  <FILE>TP1_A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>c:\users\beatriz g\Documents\Atmel Studio\7.0\TP1_A\TP1_A\main.asm</FILE><LINE>11</LINE></inicio>
+  <start><FILE>c:\users\beatriz g\Documents\Atmel Studio\7.0\TP1_A\TP1_A\main.asm</FILE><LINE>15</LINE></start>
+  <delay1s><FILE>c:\users\beatriz g\Documents\Atmel Studio\7.0\TP1_A\TP1_A\main.asm</FILE><LINE>22</LINE></delay1s>
+  <L1><FILE>c:\users\beatriz g\Documents\Atmel Studio\7.0\TP1_A\TP1_A\main.asm</FILE><LINE>26</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
